@@ -1,0 +1,19 @@
+{
+  "name": "vorios",
+  "version": "1.0.0",
+  "description": "Connect Cursor to VoriOS to search products, analyze sales and inventory, review invoices, and manage grocery operations with your existing Vori permissions.",
+  "author": {
+    "name": "Vori"
+  },
+  "homepage": "https://help.vori.com/mcp/introduction",
+  "repository": "https://github.com/voriteam/vorios-mcp",
+  "keywords": [
+    "vori",
+    "vorios",
+    "grocery",
+    "inventory",
+    "invoices",
+    "mcp"
+  ],
+  "logo": "https://cdn.prod.website-files.com/696a48a7323254ea5a7ab884/69d8a913df582c158dd856e0_favicon-256.png"
+}
